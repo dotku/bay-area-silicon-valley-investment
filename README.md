@@ -39,6 +39,7 @@
 - 新贵: Uber、星巴克、Paypal、eBay、AutoDesk、Godaddy、Workdays、Lululemon、AirBnb、Chipotle、ServiceNow、Palantir、AppLovin、Paycom
 - 中概股: BYD、腾讯、百度、阿里巴巴、小米、理想、蔚来、小鹏、字节、滴滴、美团
 - 亚洲股: 三星、现代、丰田、本田、Sony
+- 加密币: BTC、ETH
 
 ### 1% 高风险:
 
